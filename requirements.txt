@@ -1,0 +1,9 @@
+requests~=2.24.0
+PyTelegramBotAPI~=3.6.6
+coinbase==2.1.0
+
+
+
+
+telebot~=0.0.4
+myqiwi~=0.0.5
